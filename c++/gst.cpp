@@ -15,7 +15,7 @@ int main()
     cout << "\t" << dis;
     total = amount - dis;
     cout << "\t" << total;
-    gst = total * 0.18;
+    gst = total * 0.1
     cout << "\t" << gst;
     gst;
     paidbill = gst + total;
