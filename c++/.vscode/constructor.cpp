@@ -8,6 +8,6 @@ class sum{
     sum(double,double,double);
 };
     sum::sum(int a,int b){
-    cout<<"two para int a+b :-"<< a+b<<end1;
+    cout<<"two para int a+b :-"<< a+b<<endl;
     }
     sum::sum(int a,int b,int c)
